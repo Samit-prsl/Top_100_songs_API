@@ -1,5 +1,7 @@
 const express = require('express')
 const app = express();
+const cors = require('cors')
+app.use(cors());
 require('../src/db/connection')
 const SongColl = require('../src/models/Songs')
 const port = process.env.PORT || 5000;
