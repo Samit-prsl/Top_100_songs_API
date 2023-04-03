@@ -1,0 +1,47 @@
+{
+   "ranking":2,
+  "title": "The Twist",
+  "artist": "Chubby Checker"
+},
+
+{
+   "ranking":3,
+  "title": "Smooth",
+  "artist": "Santana Featuring Rob Thomas"
+},
+{
+   "ranking":4,
+  "title": "Mack The Knife",
+  "artist": "Bobby Darin"
+},
+{
+   "ranking":5,
+  "title": "Uptown Funk!",
+  "artist": "Mark Ronson Featuring Bruno Mars"
+},
+
+{
+   "ranking":6,
+  "title": "How Do I Live",
+  "artist": "LeAnn Rimes"
+},
+{
+   "ranking":7,
+  "title": "Party Rock Anthem",
+  "artist": "LMFAO Featuring Lauren Bennett & GoonRock"
+},
+{
+   "ranking":8,
+  "title": "I Gotta Feeling",
+  "artist": "The Black Eyed Peas"
+},
+{
+   "ranking":9,
+  "title": "Macarena (Bayside Boys Mix)",
+  "artist": "Los Del Rio"
+},
+{
+   "ranking":10,
+  "title": "Shape Of You",
+  "artist": "Ed Sheeran"
+}
